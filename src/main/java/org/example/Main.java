@@ -10,7 +10,7 @@ public class Main {
         channel.addVideo("Introduce to Machine Learning");
         channel.addVideo("Web development basic");
 
-        User userSubscriber = new User("Bruno");
+        User userSubscriber = new User("Bruno Ferreira");
 
         channel.subscribe(userSubscriber);
     }
